@@ -1,0 +1,7 @@
+D:\Visual Studio Project\Desktop_Project\300421Task2\bin\Debug\300421Task2.exe.config
+D:\Visual Studio Project\Desktop_Project\300421Task2\bin\Debug\300421Task2.exe
+D:\Visual Studio Project\Desktop_Project\300421Task2\bin\Debug\300421Task2.pdb
+D:\Visual Studio Project\Desktop_Project\300421Task2\obj\Debug\300421Task2.csprojAssemblyReference.cache
+D:\Visual Studio Project\Desktop_Project\300421Task2\obj\Debug\300421Task2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Desktop_Project\300421Task2\obj\Debug\300421Task2.exe
+D:\Visual Studio Project\Desktop_Project\300421Task2\obj\Debug\300421Task2.pdb
